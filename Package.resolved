@@ -6,7 +6,7 @@
         "repositoryURL": "https://github.com/MonsantoCo/GeospatialSwift.git",
         "state": {
           "branch": "xcode-11",
-          "revision": "93e9743a44e5efee5c68f4dceb48982fee34c8b6",
+          "revision": "f22c2a387ce64091acfe439fc417192ee30ad62f",
           "version": null
         }
       },
@@ -15,7 +15,7 @@
         "repositoryURL": "https://github.com/MonsantoCo/TimberSwift.git",
         "state": {
           "branch": "xcode-11",
-          "revision": "acc73343667a2784cb7ac502c23fdbd87f678905",
+          "revision": "f483306f403c74d6ade4a2055ad1649474efcf71",
           "version": null
         }
       }
