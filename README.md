@@ -1,6 +1,5 @@
 # GeospatialKit
 
-[![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![Swift 5.1](https://img.shields.io/badge/Swift-5.1-orange.svg?style=flat)](https://developer.apple.com/swift/)
 
 What is GeospatialKit?
@@ -16,7 +15,9 @@ A GeoJsonObject can now be projected as an image or zoomed and rendered to a map
 
 ## Installation
 
-``` github "MonsantoCo/GeospatialKit" ~> 0.1.0 ```
+### Package Manager
+
+```.package(url: "git@github.com:MonsantoCo/GeospatialKit.git", from: "0.1.0")```
 
 ### Geospatial Example
 
